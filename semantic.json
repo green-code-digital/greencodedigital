@@ -8,12 +8,12 @@
       "themes": "src/themes/"
     },
     "output": {
-      "packaged": "public/assets/",
-      "uncompressed": "public/assets/components/",
-      "compressed": "public/assets/components/",
-      "themes": "public/assets/themes/"
+      "packaged": "assets/",
+      "uncompressed": "assets/components/",
+      "compressed": "assets/components/",
+      "themes": "assets/themes/"
     },
-    "clean": "public/assets/"
+    "clean": "assets/"
   },
   "permission": false,
   "autoInstall": false,
