@@ -1,0 +1,22 @@
+{
+  "base": "/",
+  "paths": {
+    "source": {
+      "config": "src/theme.config",
+      "definitions": "src/definitions/",
+      "site": "src/site/",
+      "themes": "src/themes/"
+    },
+    "output": {
+      "packaged": "public/assets/",
+      "uncompressed": "public/assets/components/",
+      "compressed": "public/assets/components/",
+      "themes": "public/assets/themes/"
+    },
+    "clean": "public/assets/"
+  },
+  "permission": false,
+  "autoInstall": false,
+  "rtl": false,
+  "version": "2.2.6"
+}
